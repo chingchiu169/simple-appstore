@@ -1,0 +1,336 @@
+{
+  "feed": {
+    "title": "Top Grossing iPhone Apps",
+    "id": "https://rss.itunes.apple.com/api/v1/hk/ios-apps/top-grossing/all/10/explicit.json",
+    "author": {
+      "name": "iTunes Store",
+      "uri": "http://wwww.apple.com/hk/itunes/"
+    },
+    "links": [
+      {
+        "self": "https://rss.itunes.apple.com/api/v1/hk/ios-apps/top-grossing/all/10/explicit.json"
+      },
+      {
+        "alternate": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?genreId=36\u0026popId=38"
+      }
+    ],
+    "copyright": "Copyright © 2018 Apple Inc. All rights reserved.",
+    "country": "hk",
+    "icon": "http://itunes.apple.com/favicon.ico",
+    "updated": "2020-02-04T01:27:01.000-08:00",
+    "results": [
+      {
+        "artistName": "GAMENOW TECHNOLOGY LIMITED",
+        "id": "1478096431",
+        "releaseDate": "2020-01-06",
+        "name": "一拳超人：最強之男",
+        "kind": "iosSoftware",
+        "copyright": "© ONE,Yusuke Murata/SHUESHA,Hero Association HQ",
+        "artistId": "1444994195",
+        "artistUrl": "https://apps.apple.com/hk/developer/gamenow-technology-limited/id1444994195",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/9b/91/7a/9b917a12-65bc-9321-9d12-94babe0b9d58/AppIcon-0-1x_U007emarketing-0-85-220-7.png/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "6014",
+            "name": "遊戲",
+            "url": "https://itunes.apple.com/hk/genre/id6014"
+          },
+          {
+            "genreId": "7005",
+            "name": "卡牌",
+            "url": "https://itunes.apple.com/hk/genre/id7005"
+          },
+          {
+            "genreId": "7017",
+            "name": "策略",
+            "url": "https://itunes.apple.com/hk/genre/id7017"
+          }
+        ],
+        "url": "https://apps.apple.com/hk/app/%E4%B8%80%E6%8B%B3%E8%B6%85%E4%BA%BA-%E6%9C%80%E5%BC%B7%E4%B9%8B%E7%94%B7/id1478096431"
+      },
+      {
+        "artistName": "Lilith Games",
+        "id": "1375425432",
+        "releaseDate": "2019-04-09",
+        "name": "劍與遠征-AFK Arena",
+        "kind": "iosSoftware",
+        "copyright": "Lilith Games © 2013 - 2018",
+        "artistId": "982119759",
+        "artistUrl": "https://apps.apple.com/hk/developer/lilith-games/id982119759",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/7e/51/be/7e51beba-528a-d5e5-7533-ac230445ff1b/AppIcon-0-1x_U007emarketing-0-85-220-10.png/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "6014",
+            "name": "遊戲",
+            "url": "https://itunes.apple.com/hk/genre/id6014"
+          },
+          {
+            "genreId": "7017",
+            "name": "策略遊戲",
+            "url": "https://itunes.apple.com/hk/genre/id7017"
+          },
+          {
+            "genreId": "7014",
+            "name": "RPG遊戲",
+            "url": "https://itunes.apple.com/hk/genre/id7014"
+          }
+        ],
+        "url": "https://apps.apple.com/hk/app/%E5%8A%8D%E8%88%87%E9%81%A0%E5%BE%81-afk-arena/id1375425432"
+      },
+      {
+        "artistName": "Lilith Games",
+        "id": "1354260888",
+        "releaseDate": "2018-09-20",
+        "name": "萬國覺醒-RoK",
+        "kind": "iosSoftware",
+        "copyright": "Lilith Games © 2013 - 2019",
+        "artistId": "982119759",
+        "artistUrl": "https://apps.apple.com/hk/developer/lilith-games/id982119759",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/0c/c3/4c/0cc34c6e-34ed-932c-cac6-93ae6e2cae43/AppIcon-0-1x_U007emarketing-0-85-220-9.png/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "6014",
+            "name": "遊戲",
+            "url": "https://itunes.apple.com/hk/genre/id6014"
+          },
+          {
+            "genreId": "7014",
+            "name": "RPG遊戲",
+            "url": "https://itunes.apple.com/hk/genre/id7014"
+          },
+          {
+            "genreId": "7017",
+            "name": "策略遊戲",
+            "url": "https://itunes.apple.com/hk/genre/id7017"
+          }
+        ],
+        "url": "https://apps.apple.com/hk/app/%E8%90%AC%E5%9C%8B%E8%A6%BA%E9%86%92-rok/id1354260888"
+      },
+      {
+        "artistName": "Tencent Mobile International Limited",
+        "id": "1330123889",
+        "releaseDate": "2018-03-19",
+        "name": "PUBG MOBILE",
+        "kind": "iosSoftware",
+        "copyright": "© Shenzhen Tencent Computer Systems Comany Limited",
+        "artistId": "504515421",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://apps.apple.com/hk/developer/tencent-mobile-international-limited/id504515421",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/f0/b6/77/f0b67764-db64-b968-93f4-4dc8173e058f/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "6014",
+            "name": "遊戲",
+            "url": "https://itunes.apple.com/hk/genre/id6014"
+          },
+          {
+            "genreId": "7001",
+            "name": "動作遊戲",
+            "url": "https://itunes.apple.com/hk/genre/id7001"
+          },
+          {
+            "genreId": "7017",
+            "name": "策略遊戲",
+            "url": "https://itunes.apple.com/hk/genre/id7017"
+          }
+        ],
+        "url": "https://apps.apple.com/hk/app/pubg-mobile/id1330123889"
+      },
+      {
+        "artistName": "Chuang Cool Entertainment",
+        "id": "1241253595",
+        "releaseDate": "2017-07-19",
+        "name": "叫我官老爺 - 原創宮廷模擬當官手遊",
+        "kind": "iosSoftware",
+        "copyright": "© chuangcool",
+        "artistId": "1241253594",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://apps.apple.com/hk/developer/chuang-cool-entertainment/id1241253594",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/99/51/2c/99512cf5-6d26-028e-0e0f-98f8e571b33d/AppIcon-0-1x_U007emarketing-0-85-220-7.png/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "6014",
+            "name": "遊戲",
+            "url": "https://itunes.apple.com/hk/genre/id6014"
+          },
+          {
+            "genreId": "7017",
+            "name": "策略遊戲",
+            "url": "https://itunes.apple.com/hk/genre/id7017"
+          },
+          {
+            "genreId": "7014",
+            "name": "RPG遊戲",
+            "url": "https://itunes.apple.com/hk/genre/id7014"
+          },
+          {
+            "genreId": "6005",
+            "name": "社交",
+            "url": "https://itunes.apple.com/hk/genre/id6005"
+          }
+        ],
+        "url": "https://apps.apple.com/hk/app/%E5%8F%AB%E6%88%91%E5%AE%98%E8%80%81%E7%88%BA-%E5%8E%9F%E5%89%B5%E5%AE%AE%E5%BB%B7%E6%A8%A1%E6%93%AC%E7%95%B6%E5%AE%98%E6%89%8B%E9%81%8A/id1241253595"
+      },
+      {
+        "artistName": "BANDAI NAMCO Entertainment Inc.",
+        "id": "951627425",
+        "releaseDate": "2015-11-02",
+        "name": "DRAGON BALL Z -七龍珠爆裂激戰-",
+        "kind": "iosSoftware",
+        "copyright": "© (C)BIRD STUDIO / SHUEISHA, TOEI ANIMATION  (C)2015 BANDAI NAMCO Entertainment Inc.",
+        "artistId": "352305770",
+        "artistUrl": "https://apps.apple.com/hk/developer/bandai-namco-entertainment-inc/id352305770",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/be/b0/34/beb034ca-805a-bfc1-4108-75f66c84318c/AppIcon-0-1x_U007emarketing-0-85-220-10.png/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "6014",
+            "name": "遊戲",
+            "url": "https://itunes.apple.com/hk/genre/id6014"
+          },
+          {
+            "genreId": "7012",
+            "name": "解謎",
+            "url": "https://itunes.apple.com/hk/genre/id7012"
+          },
+          {
+            "genreId": "7001",
+            "name": "動作",
+            "url": "https://itunes.apple.com/hk/genre/id7001"
+          },
+          {
+            "genreId": "6016",
+            "name": "娛樂",
+            "url": "https://itunes.apple.com/hk/genre/id6016"
+          }
+        ],
+        "url": "https://apps.apple.com/hk/app/dragon-ball-z-%E4%B8%83%E9%BE%8D%E7%8F%A0%E7%88%86%E8%A3%82%E6%BF%80%E6%88%B0/id951627425"
+      },
+      {
+        "artistName": "Garena Online Private Ltd",
+        "id": "1089079153",
+        "releaseDate": "2016-10-13",
+        "name": "Garena 傳說對決：性能優化版本",
+        "kind": "iosSoftware",
+        "copyright": "© Garena Online Private Limited",
+        "artistId": "513828660",
+        "artistUrl": "https://apps.apple.com/hk/developer/garena-online-private-ltd/id513828660",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/02/17/a5/0217a5df-c366-78b4-f009-0f50a55cf50e/AppIcon-0-1x_U007emarketing-0-85-220-0-10.png/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "6014",
+            "name": "遊戲",
+            "url": "https://itunes.apple.com/hk/genre/id6014"
+          },
+          {
+            "genreId": "7017",
+            "name": "策略遊戲",
+            "url": "https://itunes.apple.com/hk/genre/id7017"
+          },
+          {
+            "genreId": "7001",
+            "name": "動作遊戲",
+            "url": "https://itunes.apple.com/hk/genre/id7001"
+          }
+        ],
+        "url": "https://apps.apple.com/hk/app/garena-%E5%82%B3%E8%AA%AA%E5%B0%8D%E6%B1%BA-%E6%80%A7%E8%83%BD%E5%84%AA%E5%8C%96%E7%89%88%E6%9C%AC/id1089079153"
+      },
+      {
+        "artistName": "Supercell",
+        "id": "1053012308",
+        "releaseDate": "2016-01-04",
+        "name": "部落衝突:皇室戰爭「Clash Royale」",
+        "kind": "iosSoftware",
+        "copyright": "© 2016 Supercell Oy",
+        "artistId": "488106216",
+        "artistUrl": "https://apps.apple.com/hk/developer/supercell/id488106216",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/f9/96/8b/f9968baa-8401-828a-6a97-f74dffeb5731/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "6014",
+            "name": "遊戲",
+            "url": "https://itunes.apple.com/hk/genre/id6014"
+          },
+          {
+            "genreId": "7017",
+            "name": "策略遊戲",
+            "url": "https://itunes.apple.com/hk/genre/id7017"
+          },
+          {
+            "genreId": "6016",
+            "name": "娛樂",
+            "url": "https://itunes.apple.com/hk/genre/id6016"
+          },
+          {
+            "genreId": "7001",
+            "name": "動作遊戲",
+            "url": "https://itunes.apple.com/hk/genre/id7001"
+          }
+        ],
+        "url": "https://apps.apple.com/hk/app/%E9%83%A8%E8%90%BD%E8%A1%9D%E7%AA%81-%E7%9A%87%E5%AE%A4%E6%88%B0%E7%88%AD-clash-royale/id1053012308"
+      },
+      {
+        "artistName": "Mad Head Limited",
+        "id": "583798880",
+        "releaseDate": "2013-01-14",
+        "name": "神魔之塔",
+        "kind": "iosSoftware",
+        "copyright": "© 2019 Mad Head Limited",
+        "artistId": "496582149",
+        "artistUrl": "https://apps.apple.com/hk/developer/mad-head-limited/id496582149",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/aa/7a/cb/aa7acbad-d1a4-4904-7edd-29f2eaef758f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "6014",
+            "name": "遊戲",
+            "url": "https://itunes.apple.com/hk/genre/id6014"
+          },
+          {
+            "genreId": "7014",
+            "name": "RPG遊戲",
+            "url": "https://itunes.apple.com/hk/genre/id7014"
+          },
+          {
+            "genreId": "6016",
+            "name": "娛樂",
+            "url": "https://itunes.apple.com/hk/genre/id6016"
+          },
+          {
+            "genreId": "7003",
+            "name": "休閒遊戲",
+            "url": "https://itunes.apple.com/hk/genre/id7003"
+          }
+        ],
+        "url": "https://apps.apple.com/hk/app/%E7%A5%9E%E9%AD%94%E4%B9%8B%E5%A1%94/id583798880"
+      },
+      {
+        "artistName": "Sky Entertainment Network Limited",
+        "id": "1471488033",
+        "releaseDate": "2019-10-13",
+        "name": "三國殺名將傳",
+        "kind": "iosSoftware",
+        "copyright": "© 廣州天遊網絡科技有限公司",
+        "artistId": "1439530152",
+        "artistUrl": "https://apps.apple.com/hk/developer/sky-entertainment-network-limited/id1439530152",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/22/38/46/22384678-3adc-5db7-9587-7ab12c7d04c9/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "6014",
+            "name": "遊戲",
+            "url": "https://itunes.apple.com/hk/genre/id6014"
+          },
+          {
+            "genreId": "7005",
+            "name": "卡牌遊戲",
+            "url": "https://itunes.apple.com/hk/genre/id7005"
+          },
+          {
+            "genreId": "7014",
+            "name": "RPG遊戲",
+            "url": "https://itunes.apple.com/hk/genre/id7014"
+          }
+        ],
+        "url": "https://apps.apple.com/hk/app/%E4%B8%89%E5%9C%8B%E6%AE%BA%E5%90%8D%E5%B0%87%E5%82%B3/id1471488033"
+      }
+    ]
+  }
+}
